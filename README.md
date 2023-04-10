@@ -1,5 +1,5 @@
 # python_tools
-python tools
+python tools ， create by chatgpt
  
  extract_images.py
 提取视频中的帧，保存为图片，作为机器学期训练的数据 
