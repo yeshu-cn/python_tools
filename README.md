@@ -9,3 +9,7 @@ rename_dir_files.py
 
 write_prompt.py
 整理lora训练的图片时，批量删除生成的prompt内容，写入指定prompt
+
+remove_background.py
+* `pip install rembg`
+* 抠图脚本
